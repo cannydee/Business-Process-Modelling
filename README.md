@@ -9,5 +9,7 @@ I created the BPM using the Bizagi modeler, a software for business process auto
 
 From the png below, notice how the order process flows. starting with the Home section of the proposed app, to the browse categories section , to the account set-up section, to adding items to cart and placing orders, to the purchase/sales department in charge of processing and dispatch of orders.
 
+This newly developed process would help the business in retaining customers information as agreed by the customers, which in turn would increase the retention rate for the business.
+
 
 ![Bagsbycanny-bizagi](https://user-images.githubusercontent.com/94903456/205046728-17845e79-21d4-406a-b5a4-474cf96cf5b4.png)
