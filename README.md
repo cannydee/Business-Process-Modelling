@@ -1,7 +1,7 @@
 # Business-Process-Modelling
 The Business Process Model (BPM) for a case study, Bagsbycanny.
 
-A brief explanation of what BPM is; Business process modelling is the activity of representing processes of an enterprise, so that the current business processes may be analyzed, improved, and automated.
+A brief explanation of what BPM is; Business process modelling is the activity of representing processes of an enterprise, so that the current business processes may be analyzed, improved, and automated. The goal of this project was to develop a process map of how the mobile app will flow.
 
 One of the key importance of a business analyst is to help improve the operations of a business. After creating a mind map to highlight some of her business problems, it was identified that the order and purchase process needed to be improved as the previous process was slow and led to the loss of customers.
 
